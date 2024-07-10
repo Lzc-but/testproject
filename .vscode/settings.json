@@ -1,0 +1,7 @@
+{
+    "autoDocstring.docstringFormat": "numpy",
+    "python.formatting.provider": "yapf",
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder};${env:PYTHONPATH}"
+    }
+}
